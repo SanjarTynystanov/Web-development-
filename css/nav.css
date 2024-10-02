@@ -1,0 +1,33 @@
+.navigation{
+    width: 1440px;
+    height: 130px;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.navigation_logo{
+    width: 188px;
+    height: 32px;
+}
+.navigation_ul{
+    width: 199px;
+    height: 73px;
+    margin: 0 0 0 909px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style-type: none;
+}
+.navigation_ul_li1{
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #000;
+}
+.navigation_ul_li{
+    font-size: 15px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+    color: #808080;
+}

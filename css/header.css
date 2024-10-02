@@ -1,0 +1,21 @@
+.header{
+    width: 1440px;
+    height: 635px;
+    margin: 0 auto;
+}
+.header_h1{
+    font-family: "Playfair Display", serif;
+    font-size: 174px;
+    font-weight: 400;
+    color: #333333;
+    margin: 114px 0 0 104px;
+
+}
+.header_p{
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #808080;
+    margin: 80px 0 0 104px;
+
+}

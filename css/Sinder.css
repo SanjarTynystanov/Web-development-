@@ -1,0 +1,63 @@
+.Sinder{
+    width: 1440px;
+    height: 800px;
+    background-image: url(/img/IMAGE\ \(1\).png);
+    margin: 0 auto;
+}
+.Sinder2{
+    width: 1440px;
+    height: 800px;
+    background-image: url(/img/IMAGE\ \(2\).png);
+    margin: 0 auto;
+}
+.Sinder3{
+    width: 1440px;
+    height: 800px;
+    background-image: url(/img/IMAGE\ \(3\).png);
+    margin: 0 auto;
+}
+.Sinder_block{
+    width: 720px;
+    height: 800px;
+    background: #000000BF;
+    opacity: 75%;
+
+
+}
+.Sinder_block_mini{
+    width: 278px;
+    height: 259px;
+    padding: 270px 0 0 216px;
+
+}
+.Sinder_block_h2{
+    font-family: "Playfair Display", serif;
+    font-size: 69px;
+    font-weight: 400;
+    margin: 0 0 0 0;
+    color: #808080;
+}
+.Sinder_block_h23{
+    font-size: 44px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    margin: 29px 0 29px 0;
+    color: #fff;
+    
+}
+.Sinder_block_p1{
+    font-size: 17px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    margin: 0 0 21px 0;
+    color: #7A7A7A;
+    
+}
+.Sinder_block_p2{
+    font-family: "Roboto", sans-serif;
+    color: #FFFFFF;
+    margin: 0 0 0 0;
+    font-size: 15px;
+    font-weight: 700;
+    
+}

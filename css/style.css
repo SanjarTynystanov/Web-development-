@@ -1,0 +1,14 @@
+@import url(/css/nav.css);
+@import url(/css/header.css);
+@import url(/css/Sinder.css);
+@import url(/css/footer.css);
+@import url();
+@import url();
+@import url();
+@import url();
+
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
